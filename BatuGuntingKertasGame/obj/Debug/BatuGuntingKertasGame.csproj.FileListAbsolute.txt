@@ -1,0 +1,7 @@
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\bin\Debug\BatuGuntingKertasGame.exe.config
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\bin\Debug\BatuGuntingKertasGame.exe
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\bin\Debug\BatuGuntingKertasGame.pdb
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\obj\Debug\BatuGuntingKertasGame.csproj.AssemblyReference.cache
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\obj\Debug\BatuGuntingKertasGame.csproj.CoreCompileInputs.cache
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\obj\Debug\BatuGuntingKertasGame.exe
+D:\Coding\C#\ConsoleApps\BatuGuntingKertasGame\BatuGuntingKertasGame\obj\Debug\BatuGuntingKertasGame.pdb
